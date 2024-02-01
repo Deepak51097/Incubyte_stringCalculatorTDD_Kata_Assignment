@@ -1,9 +1,6 @@
 package test.java.StringCalculatorTDD;
 
-//public class StringCalculatorTest {
-//
-//}
-import org.junit.Test;
+ import org.junit.Test;
 
 import main.java.StringCalculatorTDD.StringCalculator;
 

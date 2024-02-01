@@ -1,10 +1,5 @@
 package main.java.StringCalculatorTDD;
-//
-//public class StringCalculator {
-//
-//}
-//
-import java.util.ArrayList;
+ import java.util.ArrayList;
 import java.util.List;
 
 public class StringCalculator {
